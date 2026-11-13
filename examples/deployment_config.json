@@ -1,0 +1,6 @@
+{
+  "workers": 2,
+  "requests": 3,
+  "credentials": "environment only",
+  "hosted": false
+}

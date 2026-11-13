@@ -1,0 +1,38 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "job_0",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_started",
+    "stage": "job_1",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 3,
+    "kind": "stage_finished",
+    "stage": "job_0",
+    "elapsed_seconds": 0.00013
+  },
+  {
+    "sequence": 4,
+    "kind": "stage_finished",
+    "stage": "job_1",
+    "elapsed_seconds": 0.00015
+  },
+  {
+    "sequence": 5,
+    "kind": "stage_started",
+    "stage": "job_2",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 6,
+    "kind": "stage_finished",
+    "stage": "job_2",
+    "elapsed_seconds": 3e-05
+  }
+]

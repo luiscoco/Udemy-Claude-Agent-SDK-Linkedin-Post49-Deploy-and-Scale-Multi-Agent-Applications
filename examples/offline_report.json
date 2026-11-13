@@ -1,0 +1,20 @@
+{
+  "lesson": 48,
+  "application": "Bounded Deployment Worker",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "results": [
+      "Completed summary for: Summarize Read",
+      "Completed summary for: Summarize Glob",
+      "Completed summary for: Summarize max_turns"
+    ],
+    "configuration": {
+      "workers": 2,
+      "requests": 3,
+      "credentials": "environment only",
+      "hosted": false
+    }
+  },
+  "measured_cost_usd": null
+}

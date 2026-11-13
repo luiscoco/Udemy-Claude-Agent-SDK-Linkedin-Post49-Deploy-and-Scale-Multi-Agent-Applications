@@ -1,0 +1,8 @@
+{
+  "jobs": [
+    "Summarize Read",
+    "Summarize Glob",
+    "Summarize max_turns"
+  ],
+  "workers": 2
+}

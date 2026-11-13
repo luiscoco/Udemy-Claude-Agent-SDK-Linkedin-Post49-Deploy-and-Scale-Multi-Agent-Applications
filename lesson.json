@@ -1,0 +1,16 @@
+{
+  "lesson": 48,
+  "title": "Deploy and Scale Multi-Agent Applications",
+  "application": "Bounded Deployment Worker",
+  "purpose": "Run a request batch with bounded concurrency and produce an explicit local deployment configuration.",
+  "exercise": "Change the worker limit and inspect stage overlap in trace.json. Build the supplied Docker image without publishing it.",
+  "source_topics": [
+    "00-Flujos multiagente con Claude.png",
+    "01-Prepare-the-Application.png",
+    "02-Configure-Environments-Safely.png",
+    "03-Containerize-the-App.png",
+    "04-Choose-a-Hosting-Model.png",
+    "05-Scale-and-Protect-the-Workflow.png",
+    "06-Maintain-and-Improve-in-Production.png"
+  ]
+}
